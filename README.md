@@ -19,7 +19,7 @@ A Python data analysis script that tests economic and demographic hypotheses acr
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/global-budget-brain.git
+git clone https://github.com/pregiorg/global-budget-brain.git
 cd global-budget-brain
 ```
 
